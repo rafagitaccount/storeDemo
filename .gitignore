@@ -122,6 +122,7 @@ celerybeat.pid
 # Environments
 sequence.txt
 config.py
+alembic.ini
 .env
 .venv
 env/
